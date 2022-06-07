@@ -14,6 +14,7 @@ pageInfo:
 appConfig:
   theme: colorful
   auth: 
+    users:
     - user: tong
     # 9gG2C-*wcL~6r[q:
       hash: 1798E1855FE449BCC720EFD64924CB9CF7E7A8DB6B337580DEB3B9B9239F4E1A
