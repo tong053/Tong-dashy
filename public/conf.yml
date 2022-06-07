@@ -51,4 +51,29 @@ sections:
     description: Get help with Dashy, raise a bug, or get in contact
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
-  
+- name: Home
+  icon: home
+  items:
+    - title: Home Assistance
+      description: Home Assistance
+      icon: https://ha.samrae.duckdns.org/static/icons/favicon-192x192.png
+      url: https://ha.samrae.duckdns.org/
+      target: newtab
+      id: 0_393_homeassistance
+    - title: Portainer
+      description: Source Code, Issues and Pull Requests
+      url: http://192.168.1.65:9000/#/auth
+      icon: http://192.168.1.65:9000/5da83cfb4883a59354abeff852cb7394.png
+      id: 1_393_portainer
+    - title: aaPanel Linux panel
+      description: Configuring & Usage Documentation
+      icon: https://aa.samrae.duckdns.org/static/favicon.ico
+      url: https://aa.samrae.duckdns.org/
+      target: newtab
+      provider: umac
+      id: 2_393_aapanellinuxpanel
+    - title: uTorrent
+      description: torrent
+      url: https://w3.samrae.duckdns.org/gui/
+      icon: https://w3.samrae.duckdns.org/gui/images/ut.png
+      id: 3_393_utorrent
