@@ -92,7 +92,7 @@
         <a href="https://github.com/tong053">
             <img src="https://avatars.githubusercontent.com/u/62989017?v=4" width="80;" alt="tong053"/>
             <br />
-            <sub><b>tong053</b></sub>
+            <sub><b>Tong053</b></sub>
         </a>
     </td></tr>
 <tr>
